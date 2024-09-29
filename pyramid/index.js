@@ -16,6 +16,7 @@
 
 // Iterative solution:
 
+
 // function pyramid(n) {
 //     // calculate midpoint of pyramid's base
 //     const mid = Math.floor((2 * n - 1) / 2);
